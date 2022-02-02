@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>MOVIE-APP</h1>
+        <h1>MOVIE</h1>
         <Filter filtredText={filtredText} filtredRating={filtredRating}/>      
       </header>
        <div>
